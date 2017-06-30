@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <category display_value="Approvals">392dd367dba33200efc65404ce96191e</category>
+        <description/>
+        <label_cache>[{"name":"{{action.Catalog_Request}}","label":"action➛Catalog_Request","type":"action","ref":"sc_request"},{"name":"{{step[926659a1-17af-4840-bfc3-5dd173c926c7].record}}","label":"step➛Lookup Record step ➛Group Record","type":"step","ref":"sys_user_group"}]</label_cache>
+        <latest_snapshot display_value="Catalog Approval Request">230e5fa7dba33200efc65404ce961961</latest_snapshot>
+        <name>Catalog Approval Request</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-30 18:47:33</sys_created_on>
+        <sys_id>a72dd367dba33200efc65404ce961922</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Catalog Approval Request</sys_name>
+        <sys_package display_value="Service Catalog" source="x_service_catalog">9bab5fe3dba33200efc65404ce961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">9bab5fe3dba33200efc65404ce961910</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_a72dd367dba33200efc65404ce961922</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-30 18:51:22</sys_updated_on>
+        <system_level>false</system_level>
+    </sys_hub_action_type_definition>
+    <sys_variable_value action="delete_multiple" query="document_key=a72dd367dba33200efc65404ce961922"/>
+</record_update>

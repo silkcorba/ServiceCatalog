@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Catalog Approval Request">a72dd367dba33200efc65404ce961922</action_type>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Software Procurement">d22ed727dba33200efc65404ce961945</flow>
+        <order>1</order>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-30 18:51:49</sys_created_on>
+        <sys_id>9a2edfa7dba33200efc65404ce96190a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Catalog" source="x_service_catalog">9bab5fe3dba33200efc65404ce961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">9bab5fe3dba33200efc65404ce961910</sys_scope>
+        <sys_update_name>sys_hub_action_instance_9a2edfa7dba33200efc65404ce96190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-30 18:51:49</sys_updated_on>
+        <ui_id>34d11544-6328-4b38-9a87-aec320ab9e64</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=9a2edfa7dba33200efc65404ce96190a"/>
+    <sys_element_mapping action="delete_multiple" query="id=9a2edfa7dba33200efc65404ce96190a"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>Catalog_Request</field>
+        <id>9a2edfa7dba33200efc65404ce96190a</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-30 18:51:49</sys_created_on>
+        <sys_id>de2edfa7dba33200efc65404ce96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-30 18:51:49</sys_updated_on>
+        <table>var__m_sys_hub_action_input_a72dd367dba33200efc65404ce961922</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+</record_update>
