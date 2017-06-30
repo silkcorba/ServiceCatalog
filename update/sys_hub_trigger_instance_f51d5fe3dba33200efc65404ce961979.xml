@@ -9,14 +9,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-30 18:47:09</sys_created_on>
         <sys_id>f51d5fe3dba33200efc65404ce961979</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>record_create</sys_name>
         <sys_package display_value="Service Catalog" source="x_service_catalog">9bab5fe3dba33200efc65404ce961910</sys_package>
         <sys_policy/>
         <sys_scope display_value="Service Catalog">9bab5fe3dba33200efc65404ce961910</sys_scope>
         <sys_update_name>sys_hub_trigger_instance_f51d5fe3dba33200efc65404ce961979</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-30 18:47:09</sys_updated_on>
+        <sys_updated_on>2017-06-30 18:56:09</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
