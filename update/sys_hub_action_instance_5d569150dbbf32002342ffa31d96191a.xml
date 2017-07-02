@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Send Email Software is Available">733495d4db7f32002342ffa31d9619e8</action_type>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Notify User of Software Availability">b0161d1cdb7f32002342ffa31d961921</flow>
+        <order>1</order>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:53:50</sys_created_on>
+        <sys_id>5d569150dbbf32002342ffa31d96191a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Catalog" source="x_service_catalog">9bab5fe3dba33200efc65404ce961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">9bab5fe3dba33200efc65404ce961910</sys_scope>
+        <sys_update_name>sys_hub_action_instance_5d569150dbbf32002342ffa31d96191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:53:50</sys_updated_on>
+        <ui_id>53b13dc2-1308-4b38-80de-692ab67673cb</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=5d569150dbbf32002342ffa31d96191a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5d569150dbbf32002342ffa31d96191a</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:53:50</sys_created_on>
+        <sys_id>9d569150dbbf32002342ffa31d96192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:53:50</sys_updated_on>
+        <value>Photoshop</value>
+        <variable display_value="">563455d4db7f32002342ffa31d961963</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5d569150dbbf32002342ffa31d96191a</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:53:50</sys_created_on>
+        <sys_id>a5569150dbbf32002342ffa31d961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:53:50</sys_updated_on>
+        <value>Photoshop</value>
+        <variable display_value="">ff3495d4db7f32002342ffa31d9619ea</variable>
+    </sys_variable_value>
+</record_update>

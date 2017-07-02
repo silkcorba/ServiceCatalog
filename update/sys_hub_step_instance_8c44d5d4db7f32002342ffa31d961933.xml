@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_step_instance">
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="Send Email Software is Available">733495d4db7f32002342ffa31d9619e8</action>
+        <cid>5523c8ce-9097-4a2e-a595-28be351069dc</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <inputs/>
+        <label>Email step </label>
+        <order>1</order>
+        <outputs/>
+        <step_type display_value="Email">4c5f36a37f0b32005f58108c3ffa9126</step_type>
+        <sys_class_name>sys_hub_step_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:44:44</sys_created_on>
+        <sys_id>8c44d5d4db7f32002342ffa31d961933</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Email step </sys_name>
+        <sys_package display_value="Service Catalog" source="x_service_catalog">9bab5fe3dba33200efc65404ce961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">9bab5fe3dba33200efc65404ce961910</sys_scope>
+        <sys_update_name>sys_hub_step_instance_8c44d5d4db7f32002342ffa31d961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:44:44</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=8c44d5d4db7f32002342ffa31d961933"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>8c44d5d4db7f32002342ffa31d961933</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:44:44</sys_created_on>
+        <sys_id>0844d5d4db7f32002342ffa31d96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:44:44</sys_updated_on>
+        <value>rebecca.dias@servicenow.com</value>
+        <variable display_value="">40cf3ae37f0b32005f58108c3ffa91f3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>8c44d5d4db7f32002342ffa31d961933</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:44:44</sys_created_on>
+        <sys_id>c844d5d4db7f32002342ffa31d96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:44:44</sys_updated_on>
+        <value/>
+        <variable display_value="">8ef44f277f0b32005f58108c3ffa91f7</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=8c44d5d4db7f32002342ffa31d961933"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>body</field>
+        <id>8c44d5d4db7f32002342ffa31d961933</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:44:44</sys_created_on>
+        <sys_id>c044d5d4db7f32002342ffa31d96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:44:44</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_4c5f36a37f0b32005f58108c3ffa9126</table>
+        <value>&lt;p&gt;Greetings,&lt;/p&gt;
+&lt;p&gt;We did it.&lt;/p&gt;
+&lt;p&gt;It is ordered&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;two&lt;/li&gt;
+&lt;li&gt;three&lt;span class="data_pill" contenteditable="false" data-pillid="e26fc246-67c0-4079-9a49-c9ba07a14e73" data-pillvalue="{{action.Software}}"&gt;action➛Software&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>subject</field>
+        <id>8c44d5d4db7f32002342ffa31d961933</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:44:44</sys_created_on>
+        <sys_id>8444d5d4db7f32002342ffa31d96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:44:44</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_4c5f36a37f0b32005f58108c3ffa9126</table>
+        <value>Software was purchased: {{action.Software}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>to</field>
+        <id>8c44d5d4db7f32002342ffa31d961933</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:44:44</sys_created_on>
+        <sys_id>0044d5d4db7f32002342ffa31d96196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:44:44</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_4c5f36a37f0b32005f58108c3ffa9126</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

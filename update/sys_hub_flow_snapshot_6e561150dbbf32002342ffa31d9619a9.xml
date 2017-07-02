@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[]</label_cache>
+        <name>Notify User of Software Availability</name>
+        <parent_flow display_value="Notify User of Software Availability">b0161d1cdb7f32002342ffa31d961921</parent_flow>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-02 16:53:55</sys_created_on>
+        <sys_id>6e561150dbbf32002342ffa31d9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notify User of Software Availability</sys_name>
+        <sys_package display_value="Service Catalog" source="x_service_catalog">9bab5fe3dba33200efc65404ce961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">9bab5fe3dba33200efc65404ce961910</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_6e561150dbbf32002342ffa31d9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-02 16:53:55</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>
